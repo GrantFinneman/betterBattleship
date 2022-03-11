@@ -3,6 +3,7 @@ from collections import namedtuple
 
 Version = "0.01"
 
+
 class Board:
     def __init__(self, player_name, ships_positions, rows=10, columns=10):
         self.player_name = player_name
@@ -24,6 +25,6 @@ class Board:
         return
 
 
-grant_board = Board("grant", {(1,2) : "destroyer"})
+grant_board = Board("grant", {(1, 2): "destroyer"})
 print(grant_board)
 print(grant_board.tiles)
