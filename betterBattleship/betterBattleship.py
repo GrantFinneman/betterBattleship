@@ -28,6 +28,3 @@ print(grant_board)
 for r in range(grant_board.size.rows):
     row_string = " ".join(grant_board.tiles[r, :])
     print(row_string)
-
-
-gg="dude"
