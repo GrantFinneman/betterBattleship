@@ -39,3 +39,5 @@ ujson=5.1.0=pypi_0
 wheel=0.37.1=pyhd3eb1b0_0
 xz=5.2.5=h7b6447c_0
 zlib=1.2.11=h7f8727e_4
+
+numpy~=1.21.2
