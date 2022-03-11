@@ -30,3 +30,4 @@ for r in range(grant_board.size.rows):
     print(row_string)
 
 
+gg="dude"
